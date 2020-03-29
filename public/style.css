@@ -1,0 +1,29 @@
+
+table{
+
+  width: 100%;
+}
+
+td{
+  width: 30%;
+  border: 3px dashed black;
+  font-size: 2rem;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+body {
+background-image: url("game.png");
+background-repeat: no-repeat, repeat;
+background-size: cover;
+text-align: center;
+background-color: green;
+}
+
+h2, h4 {
+color: black;
+}
+
+span {
+  color: red;
+}
