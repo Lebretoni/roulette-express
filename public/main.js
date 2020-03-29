@@ -1,4 +1,5 @@
-  const button = document.querySelector("button");
+//worked on together with house sebastian abby elmer thais jessie
+const button = document.querySelector("button");
   let numberTotal = 0;
   let colorTotal = 0;
   let wins = 0;
